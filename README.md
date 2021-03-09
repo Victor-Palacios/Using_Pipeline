@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Victor-Palacios/Using_Pipeline/blob/Master/stroke.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Victor-Palacios/Using_Pipeline/blob/Master/smote_and_stroke.ipynb)
 
 ----
 About Me
