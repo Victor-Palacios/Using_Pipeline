@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<Github_username>/<repo_name>/blob/<branch>/<filename>)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Victor-Palacios/Using_Pipeline/blob/Master/stroke.ipynb)
 
 ----
 About Me
