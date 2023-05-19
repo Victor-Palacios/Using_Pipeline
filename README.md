@@ -4,7 +4,7 @@
 About Me
 ----
 
-My name is Victor Palacios. I'm receiving a Master's Degree in Data Science at the University of San Francisco.
+My name is Victor Palacios. I'm received my Master's Degree in Data Science at the University of San Francisco and currently work there as the Director of Data Science Partnerships.
 
 ----
 Project Description
